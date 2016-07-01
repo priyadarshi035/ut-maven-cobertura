@@ -59,9 +59,9 @@
   </reporting>
 <distributionManagement>
     <repository>
-        <id>instance-005d01fe</id>
-        <name>instance-005d01fe-releases</name>
-        <url>http://artifactory.mybluemix.net/artifactory/libs-release-local</url>
+        <id>instance-005dc39b</id>
+        <name>instance-005dc39b-releases</name>
+        <url>http://169.44.11.131:8080/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
 
