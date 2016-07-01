@@ -57,11 +57,11 @@
       </plugin>
     </plugins>
   </reporting>
-    <distributionManagement>
+<distributionManagement>
     <repository>
-        <id>central</id>
-        <name>IBM223-PC09E8KS-releases</name>
-        <url>http://localhost:8081/artifactory/libs-release-local</url>
+        <id>instance-005d01fe</id>
+        <name>instance-005d01fe-releases</name>
+        <url>http://artifactory.mybluemix.net/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
 
