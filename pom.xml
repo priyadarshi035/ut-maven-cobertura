@@ -58,15 +58,17 @@
     </plugins>
   </reporting>
 <distributionManagement>
+
     <repository>
         <id>instance-0085fa25</id>
         <name>instance-0085fa25-releases</name>
-        <url>http://artifactory.mybluemix.net/artifactory/ProjectLiberty</url>
+        <url>http://artifactory.mybluemix.net/artifactory/libs-release-local</url>
     </repository>
-    <snapshotRepository>
+
+        <snapshotRepository>
         <id>instance-0085fa25</id>
         <name>instance-0085fa25-snapshots</name>
-        <url>http://artifactory.mybluemix.net/artifactory/ProjectLiberty</url>
+        <url>http://artifactory.mybluemix.net/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 
