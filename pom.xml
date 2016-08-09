@@ -59,10 +59,15 @@
   </reporting>
 <distributionManagement>
     <repository>
-        <id>instance-005dc39b</id>
-        <name>instance-005dc39b-releases</name>
-        <url>http://169.44.11.131:8080/artifactory/libs-release-local</url>
+        <id>instance-0085fa25</id>
+        <name>instance-0085fa25-releases</name>
+        <url>http://artifactory.mybluemix.net/artifactory/ProjectLiberty</url>
     </repository>
+    <snapshotRepository>
+        <id>instance-0085fa25</id>
+        <name>instance-0085fa25-snapshots</name>
+        <url>http://artifactory.mybluemix.net/artifactory/ProjectLiberty</url>
+    </snapshotRepository>
 </distributionManagement>
 
 </project>
