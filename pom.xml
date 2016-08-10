@@ -59,7 +59,7 @@
   </reporting>
 <distributionManagement>
 
-    <repository>
+    
 <repository>
         <id>instance-0092a677</id>
         <name>instance-0092a677-releases</name>
