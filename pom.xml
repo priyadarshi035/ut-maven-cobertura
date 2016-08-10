@@ -70,7 +70,7 @@
         <name>instance-0092a677-releases</name> 
 
 
-        <url>http://artifactory.mybluemix.net/artifactory/ext-release-local</url> 
+        <url>https://artifactory.mybluemix.net/artifactory/ext-release-local</url> 
 
 
     </repository> 
@@ -86,7 +86,7 @@
         <name>instance-0092a677-snapshots</name> 
 
 
-        <url>http://artifactory.mybluemix.net/artifactory/ext-snapshot-local</url> 
+        <url>https://artifactory.mybluemix.net/artifactory/ext-snapshot-local</url> 
 
 
     </snapshotRepository> 
