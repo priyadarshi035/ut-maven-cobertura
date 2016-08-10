@@ -60,14 +60,15 @@
 <distributionManagement>
 
     <repository>
-        <id>instance-0085fa25</id>
-        <name>instance-0085fa25-releases</name>
+<repository>
+        <id>instance-0092a677</id>
+        <name>instance-0092a677-releases</name>
         <url>http://artifactory.mybluemix.net/artifactory/libs-release-local</url>
     </repository>
 
-        <snapshotRepository>
-        <id>instance-0085fa25</id>
-        <name>instance-0085fa25-snapshots</name>
+<snapshotRepository>
+        <id>instance-0092a677</id>
+        <name>instance-0092a677-snapshots</name>
         <url>http://artifactory.mybluemix.net/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
