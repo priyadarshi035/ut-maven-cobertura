@@ -60,17 +60,37 @@
 <distributionManagement>
 
     
-<repository>
-        <id>instance-0092a677</id>
-        <name>instance-0092a677-releases</name>
-        <url>http://artifactory.mybluemix.net/artifactory/libs-release-local</url>
-    </repository>
 
-<snapshotRepository>
-        <id>instance-0092a677</id>
-        <name>instance-0092a677-snapshots</name>
-        <url>http://artifactory.mybluemix.net/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
+    <repository> 
+
+
+        <id>instance-0092a677</id> 
+
+
+        <name>instance-0092a677-releases</name> 
+
+
+        <url>http://artifactory.mybluemix.net/artifactory/ext-release-local</url> 
+
+
+    </repository> 
+
+
+
+    <snapshotRepository> 
+
+
+        <id>instance-0092a677</id> 
+
+
+        <name>instance-0092a677-snapshots</name> 
+
+
+        <url>http://artifactory.mybluemix.net/artifactory/ext-snapshot-local</url> 
+
+
+    </snapshotRepository> 
+
 </distributionManagement>
 
 </project>
